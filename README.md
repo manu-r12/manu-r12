@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS + Full-Stack Developer
 --------------------------
 
-I'm interested in building iOS and Web apps, coding videogames, and training machine learning In my free time , these are the activities that bring me joy ↴ let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
+I'm interested in building iOS and Web apps, coding videogames, and training machine learning In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My\_World](http://www.manulovesearth.tech/)
@@ -34,6 +34,4 @@ src="https://img.shields.io/twitter/follow/Manu41844334?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/manu-r12"><img src="https://github-readme-stats.vercel.app/api?username=manu-r12&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="manu-r12's GitHub stats" /></a>
-
-<a href="http://www.github.com/manu-r12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manu-r12&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/manu-r12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manu-r12&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
