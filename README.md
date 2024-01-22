@@ -6,7 +6,7 @@ iOS + Full-Stack Developer
 
 I'm interested in building iOS and Web apps, coding videogames, and training machine learning 
 
-* In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
+⭐️ In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My\_World](http://www.manulovesearth.tech/)
