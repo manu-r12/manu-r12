@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS + Full-Stack Developer
 --------------------------
 
-I'm interested in building iOS and Web apps, coding videogames, and training machine learning In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
+I'm interested in building iOS and Web apps, coding videogames, and training machine learning 
+
+* In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My\_World](http://www.manulovesearth.tech/)
