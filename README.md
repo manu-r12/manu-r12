@@ -1,17 +1,18 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="Your GIF Alt Text">
-</p>
+
 
 
 
 <div align="center">
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="Your GIF Alt Text">
+</p>
 <!-- <img style="width: 100%; max-width: 1000px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> -->
-<h1>Hey there,it is Manu </h1>
+<h1>Hey there,it is Manu</h1>
 </div>
 
 
 
-Software Developer
+I am a Software Developer
 --------------------------
 
 I'm interested in building iOS and Web apps, coding videogames, and training machine learning models
@@ -23,9 +24,6 @@ src="https://img.shields.io/github/followers/manu-r12?logo=github&style=for-the-
 src="https://img.shields.io/twitter/follow/Manu41844334?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-<p align="center">
-  <img style="width: 100%; max-width: 1000px;" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="Your GIF Alt Text">
-</p>
 
 ### Skills
 
