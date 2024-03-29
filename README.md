@@ -1,9 +1,3 @@
-
-
-<div align="center">
-<h1>W e l c o m e 🌱</h1> 
-</div>
- 
 <div align="center">
   <p align="center">
   <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="Your GIF Alt Text">
@@ -12,6 +6,10 @@
 <h1>Hey there👋🏼 , it is Manu R 👨🏻‍💻</h1>
 </div>
 
+
+<div align="center">
+<h1>W e l c o m e 🌱</h1> 
+</div>
 
 
 I am a Software Developer
