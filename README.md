@@ -5,8 +5,8 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-<h1>H e y &nbsp t h e r e ,  &nbspI t  &nbspi s  &nbspM a n u </h1>
+<img style="width: 100%; max-width: 1000px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<h2>H e y &nbsp t h e r e ,  &nbspI t  &nbspi s  &nbspM a n u </h2>
 </div>
 
 
@@ -22,6 +22,10 @@ I'm interested in building iOS and Web apps, coding videogames, and training mac
 src="https://img.shields.io/github/followers/manu-r12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Manu41844334" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Manu41844334?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+<p align="center">
+  <img style="width: 100%; max-width: 1000px;" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="Your GIF Alt Text">
+</p>
 
 ### Skills
 
