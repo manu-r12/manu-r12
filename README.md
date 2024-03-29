@@ -1,13 +1,15 @@
 
 
-
-
+<div align="center">
+<h1>W e l c o m e 🌱</h1> 
+<div></div>
+ 
 <div align="center">
   <p align="center">
   <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="Your GIF Alt Text">
 </p>
 <!-- <img style="width: 100%; max-width: 1000px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> -->
-<h1>Hey there,it is Manu</h1>
+<h1>Hey there👋🏼 , it is Manu Rajbhar 👨🏻‍💻</h1>
 </div>
 
 
@@ -16,6 +18,8 @@ I am a Software Developer
 --------------------------
 
 I'm interested in building iOS and Web apps, coding videogames, and training machine learning models
+
+I love modern Swift and my major programming languages are Swift and Typescript I have a lot of experience in SwifUI, UIKit, React.js, and Next.js, and I have been coding for a long time.
 
 ⭐️ In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
 
