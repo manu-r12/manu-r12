@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img style="width: 100%; max-width: 1000px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<!-- <img style="width: 100%; max-width: 1000px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> -->
 <h2>H e y &nbsp t h e r e ,  &nbspI t  &nbspi s  &nbspM a n u </h2>
 </div>
 
