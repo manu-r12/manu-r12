@@ -1,9 +1,13 @@
-![Manga (2)](https://github.com/manu-r12/manu-r12/assets/78516177/001fbaf8-c992-4650-bffe-209dc549c62f)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="Your GIF Alt Text">
+</p>
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It is M a n u 
-====================================================================================================================================
+<div align="center">
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<h1>H e y &nbsp t h e r e ,  &nbspI t  &nbspi s  &nbspM a n u </h1>
+</div>
 
 
 
@@ -13,13 +17,6 @@ Software Developer
 I'm interested in building iOS and Web apps, coding videogames, and training machine learning models
 
 ⭐️ In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My\_World](http://www.manulovesearth.tech/)
-* ✉️  You can contact me at [manurajbhar12@gmail.com](mailto:manurajbhar12@gmail.com)
-* 🧠  I'm learning ML and Apple's visionOS Development
-* 🤝  I'm open to collaborating on Projects
-* ⚡  constantly expanding my knowledge in new things and technology
 
 <a href="https://www.github.com/manu-r12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manu-r12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Manu41844334" target="_blank" rel="noreferrer"><img
