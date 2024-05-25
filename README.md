@@ -17,7 +17,6 @@ I am a Software Developer
 
 I'm interested in building iOS and Web apps, coding videogames, and training machine learning models
 
-I love modern Swift and my major programming languages are Swift and Typescript I have a lot of experience in SwifUI, UIKit, React.js, and Next.js, and I have been coding for a long time.
 
 ⭐️ In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
 
