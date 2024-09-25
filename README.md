@@ -15,7 +15,8 @@
 I am a Software Developer
 --------------------------
 
-I'm interested in building iOS and Web apps, coding videogames, and training machine learning models
+I'm interested in building iOS and Web apps, coding videogames, and training machine learning models 
+and i love contributing to open source...💙
 
 
 ⭐️ In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
