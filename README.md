@@ -6,7 +6,7 @@
 
 </div
 
-
+<!--https://i.pinimg.com/originals/bf/cf/48/bfcf48d206e2d19c27705b476a8bfa04.gif -->
 A Little About Me :
 --------------------------
 I'm interested in building iOS and Web apps, coding videogames, and training machine learning models 
