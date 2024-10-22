@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="Your GIF Alt Text">
+  <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" alt="Your GIF Alt Text">
 </p>
 <!-- <img style="width: 100%; max-width: 1000px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> -->
 <h1>Hey there👋🏼 , it is Manu R 👨🏻‍💻</h1>
