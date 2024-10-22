@@ -9,10 +9,17 @@
 <!--https://i.pinimg.com/originals/bf/cf/48/bfcf48d206e2d19c27705b476a8bfa04.gif -->
 A Little About Me :
 --------------------------
-I'm interested in building iOS and Web apps, coding videogames, and training machine learning models 
-and i love contributing to open source...💙
+#### Hi there! My Name is Manu Rajbhar :) 
+I’m a third-year computer science student who loves building fun applications. I have a passion for `robotics` and hope to explore it more in the future. I enjoy creating augmented reality applications as well. For programming, I usually code in `Swift`, `C++`, `JavaScript` and `Python (my first programming language, which I used to write my first 'Hello, World!')`. I started iOS programming because I enjoy it, along with other interests like machine learning and making games in my spare time!
 
-⭐️ In my free time , these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
+⭐️Outside programming stuff, these are the activities that bring me joy - let hobbies: \[String\] = \[ " learning to Cook🥘 " , " Gardening🧑🏼‍🌾 " , " Knitting🧶 " \]
+
+i also love reading poetry....
+
+*In the vastness of the night,*  
+*Stars ignite a dreamer’s flight.*  
+*Galaxies spin with tales untold,*  
+*In the universe, dreams unfold.*
 
 <a href="https://www.github.com/manu-r12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manu-r12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Manu41844334" target="_blank" rel="noreferrer"><img
