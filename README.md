@@ -1,10 +1,4 @@
-<div align="center">
-  <p align="center">
-<!--   <img src="https://i.pinimg.com/originals/41/ed/16/41ed16d549afcf174df699fd427f2cb4.gif" alt="Your GIF Alt Text"> -->
-</p>
-<img style="width: 100%; max-width: 1000px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
-</div
 
 <!--https://i.pinimg.com/originals/bf/cf/48/bfcf48d206e2d19c27705b476a8bfa04.gif -->
 A Little About Me :
