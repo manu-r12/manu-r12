@@ -1,8 +1,7 @@
 
 
 <!--https://i.pinimg.com/originals/bf/cf/48/bfcf48d206e2d19c27705b476a8bfa04.gif -->
-A Little About Me :
---------------------------
+A Little About Me 
 #### Hi there! My Name is Manu Rajbhar :) 
 I’m a third-year computer science student who loves building fun applications. I have a passion for `robotics` and hope to explore it more in the future. I enjoy creating augmented reality applications as well. For programming, I usually code in `Swift`, `C++`, `JavaScript` and `Python (my first programming language, which I used to write my first 'Hello, World!')`. I started iOS programming because I enjoy it, along with other interests like machine learning and making games in my spare time!
 
