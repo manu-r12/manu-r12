@@ -61,8 +61,3 @@ And sometimes, I simply enjoy a good poem:
     </a>
   </p>
 </div>
-
----
-<div align="center">
-  <p>ALL THANKS TO HER DIVINITY 🕉️👸🏻🧎🏻</p>
-</div>
