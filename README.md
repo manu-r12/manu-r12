@@ -1,63 +1,42 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/bf/cf/48/bfcf48d206e2d19c27705b476a8bfa04.gif" width="650" alt="Animated coding GIF">
-  <h1>Manu Rajbhar // Manushyan</h1>
+
+
+Hi! I'm Manu, a Final Year Computer Science student who loves building useful and creative software.
+
+I'm currently a **GSoC 2025 contributor** at [**@OneBusAway**](https://github.com/OneBusAway), working as a **Software Developer**.
+
+I code in Swift, TypeScript, and Python — but really, I’ll use anything if it helps build something awesome.
+Also kinda obsessed with collecting mechanical keyboards ⌨️✨
+
+#### 🏆 Things i am proud of :) :
+
+<div align="left">
+  <img  color="white" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" height="20" /> 
+  <strong>WWDC 2025 Swift Student Challenge Winner</strong>  
+  <br/> Got invited to Apple HQ, Cupertino 🍎✈️
 </div>
-
-Hello! I'm a third-year Computer Science student, passionate about crafting engaging applications. My journey is taking me into the exciting world of **robotics** and the creative potential of **augmented reality**.
-
-I primarily code in **Swift**, **C++**, **JavaScript**, and **Python** (my first language, where I wrote my initial 'Hello, World!' — a classic beginning!). My development interests span from **iOS programming** to **machine learning** and creating **games**.
-
-When I'm not immersed in code, you'll find me:
-
-* Cooking up a storm 🥘
-* Gardening 🧑🏼‍🌾
-* Knitting 🧶
-
-And sometimes, I simply enjoy a good poem:
-
-*In the vastness of the night,*
-*Stars ignite a dreamer’s flight.*
-*Galaxies spin with tales untold,*
-*In the universe, dreams unfold.*
+<br/>
+<div align="left">
+🌀  <strong>Built the official Transit Widget for OneBusAway</strong>  
+  <br/> <a href="https://github.com/OneBusAway/onebusaway-ios/pull/753">Contributed</a> a native iOS widget using WidgetKit — now used by thousands for real-time transit info
+</div>
 
 ---
 
-<div align="center">
-  <p>Connect with me:</p>
-  <p>
-    <a href="https://www.github.com/manu-r12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/manu-r12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers"></a>
-    <a href="https://www.x.com/Manu41844334" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Manu41844334?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter followers"></a>
-  </p>
+**What I’m into:**  
+building apps that *feel good to use*, exploring augmented reality, geeking out on robotics, and messing with machine learning when I can. I’ve also got a soft spot for game dev.
 
-  <p>My Digital Footprint:</p>
+---
+
+<div align="left">
+  <p><b>Connect with me:</b></p>
   <p>
-    <a href="https://www.github.com/manu-r12" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-      </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/manu-r-b08125219/" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-      </picture>
-    </a>
-    <a href="http://www.medium.com/@manurajbhar12" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
-      </picture>
-    </a>
-    <a href="https://www.x.com/Manu41844334" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-      </picture>
-    </a>
+    <a href="https://github.com/manu-r12"><img src="https://img.shields.io/github/followers/manu-r12?logo=github&style=for-the-badge" /></a>
+    <a href="https://x.com/Manu41844334"><img src="https://img.shields.io/twitter/follow/Manu41844334?logo=twitter&style=for-the-badge" /></a>
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/manu-r-b08125219"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+    <a href="https://medium.com/@manurajbhar12"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" /></a>
+    <a href="https://github.com/manu-r12"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+    <a href="https://x.com/Manu41844334"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
   </p>
 </div>
