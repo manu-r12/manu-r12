@@ -18,6 +18,10 @@ Also kinda obsessed with collecting mechanical keyboards ⌨️✨
 <div align="left">
 🌀  <strong>Built the official Transit Widget for OneBusAway</strong>  
   <br/> <a href="https://github.com/OneBusAway/onebusaway-ios/pull/753">Contributed</a> a native iOS widget using WidgetKit — now used by thousands for real-time transit info
+  <br/>
+  <a href="https://apps.apple.com/in/app/onebusaway/id329380089" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40"/>
+  </a>
 </div>
 
 ---
