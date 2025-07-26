@@ -10,7 +10,7 @@ Also kinda obsessed with collecting mechanical keyboards ⌨️✨
 #### 🏆 Things i am proud of :) :
 
 <div align="left">
-  <img  color="white" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" height="20" /> 
+  <img  color="white" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" height="20" /> 
   <strong>WWDC 2025 Swift Student Challenge Winner</strong>  
   <br/> Got invited to Apple HQ, Cupertino 🍎✈️
 </div>
