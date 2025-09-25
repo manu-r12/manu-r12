@@ -2,7 +2,7 @@
 
 Hi! I'm Manu, a Final Year Computer Science student who loves building useful and creative software.
 
-I'm currently a **GSoC 2025 contributor** at [**@OneBusAway**](https://github.com/OneBusAway), working as a **Software Developer**.
+I was a **GSoC 2025 contributor** at [**@OneBusAway**](https://github.com/OneBusAway), working as a **Software Engineer(iOS)**.
 
 I code in Swift, TypeScript, and Python — but really, I’ll use anything if it helps build something awesome.
 Also kinda obsessed with collecting mechanical keyboards ⌨️✨
