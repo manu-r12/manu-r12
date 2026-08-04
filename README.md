@@ -21,7 +21,4 @@ I mainly work with **Swift**, **TypeScript**, and **Python**, and enjoy building
 * Leetcode profile: https://leetcode.com/u/cosmicInteger/
 * Medium: https://medium.com/@manurajbhar12
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manu-r12/manu-r12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+
