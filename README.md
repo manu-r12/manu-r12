@@ -22,3 +22,5 @@ I mainly work with **Swift**, **TypeScript**, and **Python**, and enjoy building
 * Medium: https://medium.com/@manurajbhar12
 
 
+[Profile](https://x.com/52yne?s=21) - @52yne
+
