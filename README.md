@@ -16,7 +16,6 @@ I mainly work with **Swift**, **TypeScript**, and **Python**, and enjoy building
 
 ### Connect with me
 
-* GitHub: https://github.com/manu-r12
 * LinkedIn: https://linkedin.com/in/manu-r-b08125219
 * Leetcode profile: https://leetcode.com/u/cosmicInteger/
 * Medium: https://medium.com/@manurajbhar12
